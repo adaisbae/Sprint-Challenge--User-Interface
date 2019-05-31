@@ -71,6 +71,21 @@ p {
     margin: 0 auto;
 }
 
+header {
+
+}
+
+nav a {
+
+
+}
+
+.head-image {
+    display: block;
+    margin: auto;   
+}
+
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
