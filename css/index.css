@@ -107,6 +107,13 @@ nav a {
     padding-bottom: 20px;  
 }
 
+
+
+
+
+
+
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -121,6 +128,7 @@ nav a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    background-color: blue, red,;
 }
 
 .middle-content .boxes .box {
@@ -133,6 +141,11 @@ nav a {
     align-items: center;
     justify-content: center;
 }
+
+
+
+
+
 
 .bottom-content {
     display: flex;
