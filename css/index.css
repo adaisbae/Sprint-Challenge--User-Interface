@@ -81,9 +81,6 @@ header {
     margin-bottom: 40px;
 }
 
-.head-logo  {
-
-}
 nav a {
     margin: 30px;
     text-decoration: none;
@@ -102,9 +99,6 @@ nav a {
     padding-bottom:20px;
 }
 
-
-
-
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -119,13 +113,6 @@ nav a {
     padding: 0 1%;
     padding-bottom: 20px;  
 }
-
-
-
-
-
-
-
 
 .middle-content {
     margin-bottom: 20px;
@@ -193,11 +180,6 @@ nav a {
     background: dodgerblue;
 }
 
-
-
-
-
-
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -210,6 +192,20 @@ nav a {
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
+}
+
+/*Style for About Page*/
+
+.top-about-content {
+    display: flex;    
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.top-about-content .top-about-text {
+    border-bottom: 1px dashed black;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 footer {
