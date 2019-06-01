@@ -208,6 +208,22 @@ nav a {
     padding-bottom: 20px;
 }
 
+.middle-about-content {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap; 
+}
+
+.middle-about-content .middle-about-box {
+    justify-content: space-evenly;
+    width: 400px;
+    height: 300px;
+    border-bottom: 1px dashed black;
+}
+
+
+
+
 footer {
     width: 100%;
     background: black;
