@@ -216,19 +216,24 @@ nav a {
 
 .middle-about-content .middle-about-box {
     width: 370px;
-    height: 400px;
+    height: 420px;
     border-bottom: 1px dashed black;
-    /*box-sizing: border-box;*/
     margin-top: 40px;
 }
 
+.button {
+    background-color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    
+}
 .middle-about-content .bottom-about-box {
     margin-top: 40px;
     margin-bottom: 40px;
     padding-left: 20px;
 }
-
-
 
 footer {
     /*width: 100%;*/
