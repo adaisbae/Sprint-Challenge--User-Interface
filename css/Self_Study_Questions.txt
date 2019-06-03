@@ -1,0 +1,21 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is a way to lay out your page using element names that identify what part of the page they are on and the page's structure.
+
+
+2. Name two big differences between display: block; and display: inline;.
+Dispplay: block positions the element vertically and inline positions the element horizontally.
+
+
+3. What are the 4 areas of the box model?
+Content
+Padding
+Border
+Margin
+
+
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+Center axis
+
+5. Explain why git is valuable to a team of developers.
+Version control. Allows them to colloborate.
