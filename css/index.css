@@ -139,7 +139,7 @@ nav a {
     align-items: center;
     justify-content: center;
 }
-
+/*
 #b1 {
     background: teal;
 }
@@ -179,6 +179,7 @@ nav a {
 #b10 {
     background: dodgerblue;
 }
+*/
 
 .bottom-content {
     display: flex;
