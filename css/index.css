@@ -144,6 +144,19 @@ nav a {
     background: teal;
 }
 
+.box:nth-child(2){
+    background: gold;
+}
+
+.box:nth-child(odd){
+    background: crimson;
+}
+
+.box:last-child{
+    background: dodgerblue;
+}
+
+
 
 /*
 boxes styled by id selector
