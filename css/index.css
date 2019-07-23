@@ -140,6 +140,40 @@ nav a {
     justify-content: center;
 }
 
+.box:first-child{
+    background: teal;
+}
+
+.box:nth-child(2){
+    background: gold;
+}
+
+.box:nth-child(odd){
+    background: crimson;
+}
+
+.box:last-child{
+    background: dodgerblue;
+}
+
+.box:nth-child(6){
+    animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+      background-color: #001F3F;
+    }
+    100% {
+      background-color: #FF4136;
+    }
+  }
+
+
+
+/*
+boxes styled by id selector
+
 #b1 {
     background: teal;
 }
@@ -179,6 +213,7 @@ nav a {
 #b10 {
     background: dodgerblue;
 }
+*/
 
 .bottom-content {
     display: flex;
