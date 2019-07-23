@@ -139,7 +139,15 @@ nav a {
     align-items: center;
     justify-content: center;
 }
+
+.box:first-child{
+    background: teal;
+}
+
+
 /*
+boxes styled by id selector
+
 #b1 {
     background: teal;
 }
